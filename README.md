@@ -1,7 +1,7 @@
 # MODE Brand Kit
 **Together in On-Chain Cooperation**
 
-
+ 
 This is our brand kit, you'll find the details of how to use our brand assets, and how we use them.
 
 ### Brand Pillars
